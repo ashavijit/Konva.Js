@@ -1,6 +1,6 @@
 {
-  "name": "react-konva-connecting-shapes-demo",
-  "description": "React Konva sandbox",
+  "name": "react-konva-connecting-shapes",
+  "description": "React Konva ",
   "version": "0.0.9",
   "keywords": [],
   "dependencies": {
